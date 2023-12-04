@@ -74,3 +74,4 @@ RTL realization
 ![Screenshot 2023-12-04 115839](https://github.com/sumanguna/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/146914442/ed4b614a-73df-4cfd-ba57-afc1f16f9321)
 
 ### Result:
+       Thus, the half adder and full adder circuits are designed and the truth tables is verified using quartus software.
