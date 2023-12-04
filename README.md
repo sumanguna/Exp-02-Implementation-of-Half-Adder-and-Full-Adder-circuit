@@ -44,6 +44,8 @@ RegisterNumber:23014256
 # Half Adder:
 ![image](https://github.com/sumanguna/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/146914442/6a95a978-f915-4e9c-b4bc-d0eae66e77bc)
 # Full Adder:
+![image](https://github.com/sumanguna/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/146914442/3eb001f0-e1d4-4e13-beeb-88140c49a02f)
+
 
 
 Logic symbol & Truthtable
