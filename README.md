@@ -53,9 +53,24 @@ RTL realization
 
 ### Output:
 ### RTL
-### TIMING DIAGRAM
+# Half Adder
+![Screenshot 2023-12-04 115712](https://github.com/sumanguna/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/146914442/d12dc2d0-5c1a-4858-883b-006ed5c81330)
 
+# Full Adder
+![Screenshot 2023-12-04 115734](https://github.com/sumanguna/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/146914442/3c65a4f5-1cd8-4949-be0d-9e3a6ed197bb)
+
+### TIMING DIAGRAM
+# Half Adder
+![Screenshot 2023-12-04 115758](https://github.com/sumanguna/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/146914442/d3535443-9e2a-457d-abad-7ec968737ab9)
+
+# Full Adder
+![Screenshot 2023-12-04 115814](https://github.com/sumanguna/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/146914442/c4fa8f14-fbdb-4329-ae3c-623b14f3bbf7)
 
 ### TRUTH TABLE 
+# Half Adder
+![Screenshot 2023-12-04 115829](https://github.com/sumanguna/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/146914442/122771ad-9a09-446f-8f8d-efdcb7d14f6b)
+
+# Full Adder
+![Screenshot 2023-12-04 115839](https://github.com/sumanguna/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/146914442/ed4b614a-73df-4cfd-ba57-afc1f16f9321)
 
 ### Result:
